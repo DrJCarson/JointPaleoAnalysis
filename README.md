@@ -22,14 +22,3 @@ CompactedSS01.txt / CompactedUSS01.txt - Data for the forced / unforced simulati
 Data for the ODP677 core dated as part of the LR04 stack can be obtained from http://www.lorraine-lisiecki.com/stack.html, and and as part of the H07 stack from http://www.people.fas.harvard.edu/~phuybers/Progression/. Please cite the original sources (Shackleton et al. 1990, and Mix et al. 1995), and relevant age model paper (Lisiecki and Raymo 2005, or Huybers 2007) when using this data.
 
 
-Contact:
-
-Jake Carson
-Department of Statistics
-University of Warwick
-Coventry
-CV4 7AL
-UK
-
-jake.carson@warwick.ac.uk
-
