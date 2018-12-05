@@ -5,6 +5,7 @@ library(deSolve)
 library(insol)
 library(MASS)
 library(mvtnorm)
+library(VGAM)
 
 dyn.load("SMC_CR14_NAM.so")
 dyn.load("FindForcing.so")
